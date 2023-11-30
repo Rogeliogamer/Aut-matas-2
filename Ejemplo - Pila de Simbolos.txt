@@ -1,0 +1,10 @@
+y = 10 * b / 2;
+Repeat 
+Begin 
+s = b * x * z * 10 / 30;
+read (y);
+End 
+Until (y > 500);
+r = not ( (a > var1) or (m == true) ) and (100 >= r);
+write (r);
+x = 16; 
